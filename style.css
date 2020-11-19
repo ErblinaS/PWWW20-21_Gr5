@@ -1,0 +1,30 @@
+*{
+  margine: 0;
+  padding: 0;
+  outline: 0;
+}
+
+#table1{border-collapse: separate;
+	border-spacing:50px 10px;
+}
+#table2{ border-collapse: separate;
+	border-spacing:50px;
+	
+}
+.form1 {
+		margin: 0 auto;
+		width: 400px;
+
+	}
+.form2 {
+		margin: 0 auto;
+		width: 1150px;
+		text-align: center;
+
+	}
+
+	.form2 label{
+		display: inline-block;
+		text-align: center;
+		
+	}
