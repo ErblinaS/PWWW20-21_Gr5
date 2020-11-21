@@ -11,6 +11,9 @@
 	border-spacing:50px;
 	
 }
+#table3{ border-collapse: separate;
+	border-spacing:30px;	
+}
 .form1 {
 		margin: 0 auto;
 		width: 400px;
