@@ -3,7 +3,13 @@
   padding: 0;
   outline: 0;
 }
-
+#searchForm {
+            
+		position: relative;
+		vertical-align: top;
+		display: inline-block;
+		margin-left: 1270px;
+	}
 #table1{border-collapse: separate;
 	border-spacing:50px 10px;
 }
@@ -33,4 +39,9 @@
 		display: inline-block;
 		text-align: center;
 		
+	}	
+#footer_text{
+
+		display: flex;
+		justify-content: space-between;
 	}
