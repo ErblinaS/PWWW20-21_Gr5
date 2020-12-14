@@ -10,6 +10,30 @@
 		display: inline-block;
 		margin-left: 1270px;
 	}
+.topNav a{
+		margin-left: 10px;
+		padding-top: 20px;
+		font-size: 16px;
+		color: gray;
+		font-family: Georgia;
+}
+#n1{
+		padding-top: 40px;
+}
+#title{
+	margin-left: 0px;
+	padding-top: 40px;
+	font-size: 27px;
+	color: #585858;
+	font-family: Georgia;
+}
+#title1 {
+	margin-left: 17px;
+	font-size: 16px;
+	color: gray;
+	font-family: Georgia;
+		
+}
 #table1{border-collapse: separate;
 	background-color:  #212d3a;
 	border-style: solid;
