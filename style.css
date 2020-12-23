@@ -3,13 +3,73 @@
   padding: 0;
   outline: 0;
 }
-.searchForm {
+.articles{
+	padding: 3px 0px 3px 20px ;
+	background-color: #212d3a;
+}	
+
+
+	.l_logo{
+		display: inline-block;
+	}
+		.l_logo ul li{
+
+			padding-top: 10px;
+			padding-left: 7px;
+		}
+		.l_logo ul li img{
+			background-color: #2e3f51;		
+			border: 2px solid #2e3f51;
+			padding: 1px;
+			border-radius: 50%;
+		}
+		.list-links li{
+			display: inline-block;
+		}
+		#img1:hover {
+			background-color: red;
+			border-color: red;
+		
+		}
+		#img2:hover {
+			background-color: red;
+			border-color:red;
+		
+		}
+		#img3:hover {
+			background-color: red;
+			border-color: red;
+		
+		}
+      
+                
+	.searchForm {
             
 		position: relative;
 		vertical-align: top;
 		display: inline-block;
-		margin-left: 1270px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+		margin-left: 1040px;
 	}
+		.searchForm input {
+			padding: 3px 10px;
+			height: 26px;
+			border-radius: 50px;
+			border-color: #2e3f51;
+			background-color: #2e3f51;
+			color: white;
+		}
+		.searchForm img {
+			width: 20px;
+			height: 20px;
+			padding: 3px;
+			border-radius: 45%;
+			position: absolute;
+			right: 10px;
+			top: 10%;
+			background-color: #212d3a;
+		}
 .topNav a{
 		margin-left: 10px;
 		padding-top: 20px;
@@ -43,12 +103,6 @@
 	 border-right-width: 35px;
 	 border-left-width: 35px;
 }
-#photo img{
-	padding-left: 62px;
-}
-label{
-	color:white;
-}
 #table2{ border-collapse: separate;
 	border-spacing:50px;
 	
@@ -56,8 +110,20 @@ label{
 #table3{ border-collapse: separate;
 	border-spacing:30px;	
 }
+#table3 a{
+	color: #212d3a;
+	font-family: Georgia;
+}
 #table4{ border-collapse: separate;
 	border-spacing:30px;	
+}
+
+#photo img{
+	padding-left: 62px;
+}
+label{
+	color:white;
+	font-family: Georgia;
 }
 .form1 {
 		margin: 0 auto;
@@ -76,28 +142,14 @@ label{
 		text-align: center;
 		
 	}
-.articles{
-    
-	padding: 10px ;
-	background-color: #212d3a;
-}	
-	.l_logo{
-		display: inline-block;
-	}
-		.l_logo ul li{
-			margin-right: 7px;
-		}
-		.l_logo ul li img{
-			padding: 3px;
-		}
-		.list-links {
-		margin: 0;
-		padding: 0;
-}
-      .list-links li{
-	display: inline-block;
-	}
 
+.right-content{
+	text-align: right;
+}
+p{
+	font-family: Georgia;
+
+	}
 #footer_text{
 
 		display: flex;
