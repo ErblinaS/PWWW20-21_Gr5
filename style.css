@@ -164,3 +164,8 @@ position:absolute;
 margin-top:15 px;
 margin left:-15 px;
 }
+.col-md-12 ul li:hover .v{
+display:block;
+position:absolute;
+
+}
