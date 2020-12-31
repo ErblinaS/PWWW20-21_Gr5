@@ -21,3 +21,8 @@
 			padding: 1px;
 			border-radius: 50%;
 		}
+#img1:hover {
+			background-color: red;
+			border-color: red;
+		
+		}
