@@ -10,3 +10,8 @@
 .l_logo{
 		display: inline-block;
 	}
+.l_logo ul li{
+
+			padding-top: 10px;
+			padding-left: 7px;
+		}
