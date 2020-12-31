@@ -7,3 +7,6 @@
 	padding: 3px 0px 3px 20px ;
 	background-color: #212d3a;
 }	
+.l_logo{
+		display: inline-block;
+	}
