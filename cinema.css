@@ -233,5 +233,13 @@ text-align: center;
 p{
 font-family: Georgia;
 
+}#footer_text{
+
+display: flex;
+justify-content: space-between;
 }
+footer{
+background-color: #eeeeee;
+}
+
 
