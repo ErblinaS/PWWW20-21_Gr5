@@ -144,4 +144,94 @@ right: 10px;
 top: 10%;
 
 }
+.topNav a{
+margin-left: 10px;
+padding-top: 20px;
+color: gray;
+font-family: Georgia;
+font-size: 16px;
+
+}
+#n1{
+padding-top: 40px;
+}
+#title{
+margin-left: 0px;
+padding-top: 40px;
+color: #585858;
+font-family: Georgia;
+font-size: 27px;
+}
+#title1 {
+
+margin-left: 17px;
+color: gray;
+font-family: Georgia;
+font-size: 16px;
+}
+#table1{
+background-color:  #212d3a;
+border-style: solid;
+border-color:#2e3f51;
+border-top-width: 60px;
+text-align: center;
+border-bottom-width: 60px;
+border-right-width: 35px;
+border-left-width: 35px;
+border-collapse:separate;
+border-spacing: 5px;
+}
+#table1 p{
+color: #b0b0b0;
+}
+#table1 h3{
+
+color: #b0b0b0;
+font-size: 25px;
+}
+#table1 img{
+content: center;
+}
+#table2{ border-collapse: separate;
+border-spacing:50px;
+
+}
+#table3{ border-collapse: separate;
+border-spacing:30px;
+}
+#table3 a{
+color: #212d3a;
+font-family: Georgia;
+}
+#table4{ border-collapse: separate;
+border-spacing:30px;
+}
+#photo img{
+padding-left: 62px;
+}
+.right-content{
+text-align: right;
+}
+.form1 {
+margin: 0 auto;
+width: 400px;
+
+}
+.form2 {
+margin: 0 auto;
+width: 1150px;
+text-align: center;
+
+}
+
+.form2 label{
+display: inline-block;
+text-align: center;
+
+}
+
+p{
+font-family: Georgia;
+
+}
 
