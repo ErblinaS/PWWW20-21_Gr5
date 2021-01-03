@@ -1,1 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<title>Cinematrex </title>
+<link rel="stylesheet" href="cinemaa.css">
+
+<style>
+body{background-color:rgb(235, 245, 251);} </style>
+</head>
+<body>
+
+<section class="articles">
+<div class="l_logo">
+  <ul class="list-links">
+<li><a href="https://www.linkedin.com/"><img src="images/in.svg" id="img1"></a></li>
+<li><a href="https://www.twitter.com/"><img src="images/twitter.svg" id="img2" ></a></li>
+<li><a href="https://www.pinterest.com/"><img src="images/pinterest.svg" id="img3" ></a></li>
+<li><a href="https://www.google.com/"><img src="images/gplus.svg" id="img3" ></a></li>
+<li><a href="https://rss.com/"><img src="images/rss.svg" id="img3"></a></li>
+</ul>
+</div>
+<div class="searchForm">
+<form method="" action="">
+<img src="images/search.svg">
+         <input id="searchBar" type="text">
+          </form>
+      </div>
+
+</section>
+<header> 
+  <div class="l_logo">
+ <a id="title"><strong><font size="6">CINEMATREX</font></strong></a>
+</div>
+
+   </div>
+</header>
+
+<br>
+<br>
+<main>
+<div class="movie1">
+<div class="moviee1">
+<video id="l1" controls>
+    <source src="video/movie4.mp4" type="video/mp4" >
+    </video><br>
+<br>
+
+<h1 id="titulli1"><em>A Beautiful Mind</em></h1></div>
+<br>
+<br>
+
+
+<table id="table2">
+			<tr>
+			<td>
+		<div class="v1"><img src="images/mind.jpg" width="300" height="300"></div>
+		</td>
+		
+			<td>
+		<div class="t1">	<p><font size="6" face="Monotype Corsive">A</font>fter John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.</p><br>
+<p><strong>Starring:</strong> Russell Crowe, Ed Harris, Jennifer Connelly.</p><br>
+<p><strong>Directed by:</strong>Ron Howard</p><br>
+<p><strong>Release date: </strong>December 21,2001(United States)</p> </div>
+			</td>
+		</tr>
+	</table>
+<br>
+<hr>
+<br>
+<div class="related"><p> <font size="5" ><strong>Related Posts</strong>
+<br>
+<br>
+ <ol>
+  <li><a href="movies1.html"><strong><font size="4.5">Lassie Come Home 14:00</strong></a></li><br>
+  <li><a href="movies2.html"><strong><font size="4.5">Ava-at 16:00</strong></a></li><br>
+<li><a href="movies3.html"><strong><font size="4.5">The Lion King-at 18:00</strong></a></li><br>
+<br>
+
+</ol>
+
+</div>
+
+
+
+
+</body>
+
+</html>
+
 
