@@ -108,6 +108,26 @@
 		font-family: Georgia;
 		font-size: 18px;
 	}
+		.top-navigation ul li:hover .dropdown{
+		display: block;
+		position: absolute;
+		margin-top: 3px ;
+		padding-bottom: 5px ;
+		padding-top: 10px;
+		padding-right: 2em;
+		padding-left: 1.5em;
+		text-align: center;
+		background-color: #2e3f51;
+		border-left: 2px solid #212d3a;
+		border-bottom: 2px solid #212d3a;
+		border-right: 2px solid #212d3a;
+	}
+	.dropdown{
+		display: none;
+	}
+	.dropdown a{
+		color:  white;
+	}
 	.listat{
 		padding-top: 40px;
 	}
