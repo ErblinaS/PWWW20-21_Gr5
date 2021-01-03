@@ -185,6 +185,10 @@ main{
 		footer p{
 		font-family: Georgia;
 		}
+
+	abbr{
+		font-variant: all-small-caps;
+	}
 label{
 	color:#8b0000;
 	padding-left: 15em;
