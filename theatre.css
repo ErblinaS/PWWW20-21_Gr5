@@ -6,13 +6,18 @@
 .articles{
 	padding: 3px 0px 3px 20px ;
     background-image:url("images/maskk.png");
+    background-repeat: repeat;
+    background-attachment: fixed;
 }	
 
 header {
   background-image:url("images/thee.jpg");
+  background-position: center;
 }
 main{
   background-image:url("images/maskat.png");
+    background-repeat: repeat;
+    background-attachment: scroll;
 }
 	.l_logo{
 		display: inline-block;
