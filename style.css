@@ -167,13 +167,6 @@
 		padding-left: 4em;
 		padding-right: 4em;
 	}
-
-	#right-c a{
-		float: right;
-		text-decoration: none;
-		color: white;
-		font-size: 18px;
-	}
 	#photo img{
 		padding-left:25px;
 	}
@@ -216,9 +209,7 @@
 	#table3 p{
 	font-size: 17px;	
 	}
-	.right-content{
-	text-align: right;
-	}
+	
 	#table4{ 
 		border-collapse: separate;
 		border-spacing:30px;	
@@ -249,6 +240,7 @@
 	p{
 		font-family: Georgia;
 	}
+
 	label{
 		color:white;
 		font-family: Georgia;
